@@ -8,6 +8,21 @@
 
 ---
 
+## Contributing
+
+For bug fixes, documentation improvements, typos, translations (new/updates) and simple changes, just make a PR! :tada: <br/>
+For more complex changes, pls, make an issue first so we can discuss the design. <br/>
+
+Roadmap for contributing: </br>
+
+0. Fork it.
+1. Create your feature branch (git checkout -b my-new-feature).
+2. Commit your changes (git commit -am 'Add some feature').
+3. Push to the branch (git push origin my-new-feature).
+4. Create new Pull Request.
+
+---
+
 ## License and Distribuition
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/el-cardu/operating-systems-notes/blob/master/LICENSE) for details. Have fun! </br>
