@@ -50,6 +50,68 @@
 
 ---
 
+## Schedule/Notes
+
+**Be careful**: this schedule is oriented to my professor (Emilio).
+
+**Week 01** <br/> 
+[11/02 | Introduction to the Courese (Preview)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/01.md) <br/>
+[13/02 | An overview of Computational Systems](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/02.md)
+
+**Week 02** <br/>
+[18/02 | Operating Systems Structure](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/03.md) <br/>
+[20/02 | Introduction to Linux (Lab)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/04.md)
+
+**Week 03** <br/>
+[25/02 | File Systems; Project Presentation](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/05.md) <br/>
+[27/02 | File Systems Implementation](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/06.md)
+
+**Week 04** <br/>
+[04/03 | Holiday :tada:](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/07.md) <br/>
+[06/03 | Holiday :tada:](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/08.md)
+
+**Week 05** <br/>
+[11/03 | Mass Storage Structures](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/09.md) <br/>
+[13/03 | I/O Systems](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/10.md)
+
+**Week 06** <br/>
+[18/03 | Processes](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/11.md) <br/>
+[20/03 | Processes and Signals](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/12.md)
+
+**Week 07** <br/>
+[25/03 | Threads](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/13.md) <br/>
+[27/03 | Scheduling](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/14.md)
+
+**Week 08** <br/>
+[01/04 | Exam 1](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/15.md) <br/>
+[03/04 | Threads](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/16.md)
+
+**Week 09** <br/>
+[08/04 | Holiday :tada:](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/17.md) <br/>
+[10/04 | Synchronization](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/18.md)
+
+**Week 10** <br/>
+[15/04 | Deadlocks](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/19.md) <br/>
+[17/04 | Mutex, Semaphores and Monitors](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/20.md)
+
+**Week 11** <br/>
+[22/04 | Memory Management](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/21.md)<br/>
+[24/04 | Virtual Memory](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/22.md)
+
+**Week 12** <br/>
+[29/04 | Study Case](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/23.md) <br/>
+[01/05 | Holiday :tada:](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/24.md)
+
+**Week 13** <br/>
+[07/05 | ? ](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/25.md) <br/>
+[09/05 | Exam 2 Preparation](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/26.md) <br/>
+[10/05 | Exam 2](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/27.md)
+
+**Week 14** <br/>
+[14/05 | Substitutive Exam](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/28.md) 
+
+---
+
 ## Contributing
 
 For bug fixes, documentation improvements, typos, translations (new/updates) and simple changes, just make a PR! :tada: <br/>
