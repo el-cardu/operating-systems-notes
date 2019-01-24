@@ -18,6 +18,7 @@
   - [Isidro Masseto - UFABC - 2014.3](http://tidia4.ufabc.edu.br/portal/site/5ec4bd98-94fc-40f3-9599-9dbd03d652d3/) 
   - [Isidro Masseto - UFABC - 2013.3](http://tidia4.ufabc.edu.br/portal/site/dd55eed4-ffce-4061-866e-417bf148988a)
   - [Marcelo Zanchetta - UFABC - 2010.3](http://hostel.ufabc.edu.br/~marcelo.nascimento/BC1518Q3/index.html)
+  - [Islene Calciolari Garcia - UNICAMP](http://www.ic.unicamp.br/~islene/1s2017-mc504/)
   - [Marcelo de Paiva - USP](http://www.lsi.usp.br/~paiva/so/sistemas_operacionais.html)
   - [Roberta Lima - UFES](https://inf.ufes.br/~rgomes/so.htm)
   - [Sérgio Vale A. Campos - UFMG](https://homepages.dcc.ufmg.br/~scampos/cursos/so/)
@@ -27,9 +28,12 @@
 - Books
   - [Silberschatz: Operating System Concepts](https://amzn.com/0470128720)
   - [Tanembaum: Modern Operating Systems](https://amzn.com/B00XN476W0)
+  - [Bovet: Understanding the Linux Kernel](http://biblioteca.ufabc.edu.br/index.php?codigo_sophia=3586)
+  - [Cardoso: Apostila Introdução aos Sistemas Operacionais](http://www.dca.fee.unicamp.br/~eleri/ea876/02/so-apst.pdf) :free: 
+  - [Dusseau: Operating Systems - Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) :free:
+  - [Downey:  The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) :free:
   - [Deitel: Operating Systems](https://amzn.com/0131828274)
   - [Dhamdere: Operating Systems - A Concept Based Approach](https://amzn.com/1259005585)
-  - [Dusseau: Operating Systems - Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) :free:
   - [Downey: Think OS](http://greenteapress.com/thinkos/thinkos.pdf) :free:
   - [Love: Linux Kernel Development](https://amzn.com/B003V4ATI0)
   - [Russinovich: Windows Internals](https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals)
@@ -38,15 +42,21 @@
   - [OPS Class](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_z8pkiuvHo7Vz-eQEKsk-I)
   - [UMass OS](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
   - [Bilkent](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
-  - [Introduction to Operating Systems - Udacity && Georgia Tech]()
 - Tutorials
 - Podcasts
 - Articles
 - Communities
+  - WhatsApp
+    - [WhatsApp Group (2019.1)](https://chat.whatsapp.com/Kif1W6czXhfJiN5q4mCFav)
   - Telegram
-    - [Arch Linux Brasil]()
-    - [Brasil Linux]()
-    - []()
+    - [Arch Linux Brazil](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+    - [Brazil Linux](https://t.me/BrasilLinux)
+    - [Debian Brazil](https://telegram.me/debianbrasil)
+    - [Fedora Brazil](https://telegram.me/fedorabr)
+    - [FreeBSD Brazil](https://goo.gl/mzp7XT)
+    - [Powershell Brazil](https://telegram.me/powershellbr)
+    - [Shell Script Brazil](https://telegram.me/shellbr)
+    - [Ubuntu Brazil](https://t.me/UbuntuBrasilOficial)
 
 ---
 
@@ -55,7 +65,7 @@
 **Be careful**: this schedule is oriented to my professor (Emilio).
 
 **Week 01** <br/> 
-[11/02 | Introduction to the Courese (Preview)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/01.md) <br/>
+[11/02 | Introduction to the Course (Preview)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/01.md) <br/>
 [13/02 | An overview of Computational Systems](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/02.md)
 
 **Week 02** <br/>
@@ -76,7 +86,7 @@
 
 **Week 06** <br/>
 [18/03 | Processes](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/11.md) <br/>
-[20/03 | Processes and Signals](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/12.md)
+[20/03 | Processes and Signals (Lab)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/12.md)
 
 **Week 07** <br/>
 [25/03 | Threads](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/13.md) <br/>
@@ -84,7 +94,7 @@
 
 **Week 08** <br/>
 [01/04 | Exam 1](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/15.md) <br/>
-[03/04 | Threads](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/16.md)
+[03/04 | Threads (Lab)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/16.md)
 
 **Week 09** <br/>
 [08/04 | Holiday :tada:](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/17.md) <br/>
@@ -92,7 +102,7 @@
 
 **Week 10** <br/>
 [15/04 | Deadlocks](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/19.md) <br/>
-[17/04 | Mutex, Semaphores and Monitors](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/20.md)
+[17/04 | Mutex, Semaphores and Monitors (Lab)](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/20.md)
 
 **Week 11** <br/>
 [22/04 | Memory Management](https://github.com/el-cardu/operating-systems-notes/blob/master/notes/21.md)<br/>
