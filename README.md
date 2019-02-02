@@ -122,6 +122,22 @@
 
 ---
 
+## Scheduled Lectures + Office Hours (2018.3)
+
+|  Course Number  | Meeting Time | Classroom Location |
+| :-----------------------: | :--------------------------: | :--------------------: |
+| A1D | Mon (10:00 - 12:00) <br/> Wed (08:00 - 10:00) | S-311-3 <br/> L407-2 |
+| A1N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-3 <br/> L407-2 |
+| A2N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-3 <br/> L409-2 |
+
+**Office Hours**
+
+|  Who?  | Meeting Time | Classroom Location |
+| :-----------------------: | :--------------------------: | :--------------------: |
+| Prof. Dr. Emilio Francesquini | Tue (18:00 - 20:00) <br/> Fri (16:00 - 18:00) | S-531-2 |
+
+---
+
 ## Contributing
 
 For bug fixes, documentation improvements, typos, translations (new/updates) and simple changes, just make a PR! :tada: <br/>
