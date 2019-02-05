@@ -2,7 +2,7 @@
 
 <p align="center"
 
-![operating-systems](https://imgs.xkcd.com/comics/operating_systems.png)
+![XKCD Cartoon about Operating Systems](https://imgs.xkcd.com/comics/operating_systems.png)
 >
 </p>
 
@@ -11,24 +11,33 @@
 ## Resources
 
 - Websites
-  - [Emilio Francesquini - UFABC - 2019.1](http://professor.ufabc.edu.br/~e.francesquini/2019.q1.so/)
-  - [Isidro Masseto - UFABC - 2018.1](http://tidia4.ufabc.edu.br/portal/site/fe8502c4-bd36-46d5-8c3d-60afdb98477a)
-  - [José Quilici - UFABC - 2018.1](http://tidia4.ufabc.edu.br/portal/site/044e1cb1-43bf-4de0-9e53-06aaa1521d59)
-  - [Isidro Masseto - UFABC - 2017.1](http://tidia4.ufabc.edu.br/portal/site/5036578f-9bef-47d7-8fc4-afaeaea868ba)
-  - [Isidro Masseto - UFABC - 2014.3](http://tidia4.ufabc.edu.br/portal/site/5ec4bd98-94fc-40f3-9599-9dbd03d652d3/) 
-  - [Isidro Masseto - UFABC - 2013.3](http://tidia4.ufabc.edu.br/portal/site/dd55eed4-ffce-4061-866e-417bf148988a)
-  - [Marcelo Zanchetta - UFABC - 2010.3](http://hostel.ufabc.edu.br/~marcelo.nascimento/BC1518Q3/index.html)
-  - [Islene Calciolari Garcia - UNICAMP](http://www.ic.unicamp.br/~islene/1s2017-mc504/)
-  - [Marcelo de Paiva - USP](http://www.lsi.usp.br/~paiva/so/sistemas_operacionais.html)
-  - [Roberta Lima - UFES](https://inf.ufes.br/~rgomes/so.htm)
-  - [Sérgio Vale A. Campos - UFMG](https://homepages.dcc.ufmg.br/~scampos/cursos/so/)
-  - [Michel O'Boyle - Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/os/)
-  - [John Ousterhout - Stanford](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/)
-  - [OPS Class](https://www.ops-class.org/)
+  - PT-BR
+    - [UFABC - Prof. Dr. Emilio Francesquini (2019.1)](http://professor.ufabc.edu.br/~e.francesquini/2019.q1.so/)
+    - [UFABC - Prof. Dr. Gustavo S. Pavani (2019.1)](http://tidia4.ufabc.edu.br/portal/site/bbaf3eef-f6c4-4e03-a5cf-c91e2676dc43/)
+    - [UFABC - Prof. Dr. Gustavo S. Pavani (2019.1)](http://tidia4.ufabc.edu.br/portal/site/820ae909-9c47-47bb-b496-bb716577631d)
+    - [UFABC - Prof. Dr. Isidro Masseto (2018.1)](http://tidia4.ufabc.edu.br/portal/site/fe8502c4-bd36-46d5-8c3d-60afdb98477a)
+    - [UFABC - Prof. Dr. José Quilici (2018.1)](http://tidia4.ufabc.edu.br/portal/site/044e1cb1-43bf-4de0-9e53-06aaa1521d59)
+    - [UFABC - Prof. Dr. Isidro Masseto (2017.1)](http://tidia4.ufabc.edu.br/portal/site/5036578f-9bef-47d7-8fc4-afaeaea868ba)
+    - [UFABC - Prof. Dr. Isidro Masseto (2014.3)](http://tidia4.ufabc.edu.br/portal/site/5ec4bd98-94fc-40f3-9599-9dbd03d652d3/) 
+    - [UFABC - Prof. Dr. Isidro Masseto (2013.3)](http://tidia4.ufabc.edu.br/portal/site/dd55eed4-ffce-4061-866e-417bf148988a)
+    - [UFABC - Prof. Dr. Marcelo Zanchetta (2010.3)](http://hostel.ufabc.edu.br/~marcelo.nascimento/BC1518Q3/index.html)
+    - [UNICAMP - Islene Calciolari Garcia](http://www.ic.unicamp.br/~islene/1s2017-mc504/)
+    - [USP - Marcelo de Paiva](http://www.lsi.usp.br/~paiva/so/sistemas_operacionais.html)
+    - [UFES - Roberta Lima](https://inf.ufes.br/~rgomes/so.htm)
+    - [UFMG - Sérgio Vale A. Campos](https://homepages.dcc.ufmg.br/~scampos/cursos/so/)
+  - EN
+    - [Edinburgh - Michel O'Boyle](https://www.inf.ed.ac.uk/teaching/courses/os/)
+    - [Stanford - John Ousterhout](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring18/)
+    - [OPS Class](https://www.ops-class.org/)
 - Books
   - [Silberschatz: Operating System Concepts](https://amzn.com/0470128720)
   - [Tanembaum: Modern Operating Systems](https://amzn.com/B00XN476W0)
+  - [Tanembaum: Operating Systems: Design and Implementation](https://amzn.com/0131429388)
   - [Bovet: Understanding the Linux Kernel](http://biblioteca.ufabc.edu.br/index.php?codigo_sophia=3586)
+  - [Flynn: Introdução aos Sistemas Operacionais](https://amzn.com/8522102740)
+  - [Machado: Arquitetura de sistemas operacionais](https://www.saraiva.com.br/arquitetura-de-sistemas-operacionais-5-ed-20013-4888495.html)
+  - [Carissimi: Sistemas operacionais](https://www.saraiva.com.br/sistemas-operacionais-4-ed-2010-vol-11-2870196.html)
+  - [Stallings: Operating systems: internals & design principles](https://amzn.com/0133805913)
   - [Cardoso: Apostila Introdução aos Sistemas Operacionais](http://www.dca.fee.unicamp.br/~eleri/ea876/02/so-apst.pdf) :free: 
   - [Dusseau: Operating Systems - Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) :free:
   - [Downey:  The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) :free:
@@ -44,6 +53,10 @@
   - [Bilkent](https://www.youtube.com/playlist?list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6)
 - Tutorials
 - Podcasts
+  - PT-BR
+    - [DNE #06 - Linux x Mac x Windows](https://devnaestrada.com.br/2015/06/26/devcast-mac-windows-linux.html)
+    - [Rede Geek #64 - Sistemas Operacionais](http://www.redegeek.com.br/2012/02/03/episodio-64-sistemas-operacionais/)
+    - [Castálio #100 - Cage Match de Sistemas Operacionais](https://castalio.info/episodio-100-cage-match-de-sistemas-operacionais.html)
 - Articles
 - Communities
   - WhatsApp
@@ -51,10 +64,16 @@
   - Telegram
     - [Arch Linux Brazil](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
     - [Brazil Linux](https://t.me/BrasilLinux)
+    - [C/C++ Brazil](https://telegram.me/ccppbrasil)
     - [Debian Brazil](https://telegram.me/debianbrasil)
+    - [Elementary Brazil](https://t.me/elementarybr)
+    - [Estudante Linux](https://telegram.me/estudantelinux)
     - [Fedora Brazil](https://telegram.me/fedorabr)
     - [FreeBSD Brazil](https://goo.gl/mzp7XT)
+    - [Java](https://telegram.me/javaofficial)
+    - [Java - Portuguese](https://telegram.me/javaofficial_pt)
     - [Powershell Brazil](https://telegram.me/powershellbr)
+    - [Rust Brazil](https://telegram.me/rustlangbr)
     - [Shell Script Brazil](https://telegram.me/shellbr)
     - [Ubuntu Brazil](https://t.me/UbuntuBrasilOficial)
 
@@ -157,4 +176,4 @@ Roadmap for contributing: </br>
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/el-cardu/operating-systems-notes/blob/master/LICENSE) for details. Have fun! </br>
 
-I follow most of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any exercise solutions of this repository - total or partial -, in any evaluation process of UFABC, you have to cite this on the terms of Honor's Code. Thank you!
+I follow most of the guidelines of [UFABC Honor's Code](http://professor.ufabc.edu.br/~e.francesquini/codigodehonra/). So, if you use any exercise solutions of this repository - total or partial -, in any evaluation process of UFABC, you **have** to cite this on the terms of Honor's Code. Thank you!
